@@ -1,7 +1,8 @@
 import 'dart:convert';
 
 import 'package:flutter/material.dart';
-import 'package:getflutter/getflutter.dart';
+import 'package:getwidget/getwidget.dart';
+
 import 'package:tiktok/classes/tiktok.dart';
 import 'package:tiktok/config/api.dart';
 import 'package:http/http.dart' as http;

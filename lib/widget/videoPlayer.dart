@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:getflutter/getflutter.dart';
+import 'package:getwidget/getwidget.dart';
+
 import 'package:video_player/video_player.dart';
 
 class TikTokVideoPlayer extends StatefulWidget {
